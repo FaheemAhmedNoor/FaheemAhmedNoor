@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FaheemAhmedNoor
 - 👀 I’m interested in Web Development and AI
-- 🌱 I’m currently learning ROR
+- 🌱 I’m currently working on ROR
 - 💞️ I’m looking to collaborate on ROR Projects
 - 📫 You can reach me on "faheemahmednoor12@gmail.com"
 
